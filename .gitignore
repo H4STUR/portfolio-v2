@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.env
+.playwright-mcp
+.claude
+.DS_Store
+/design
